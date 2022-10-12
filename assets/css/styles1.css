@@ -532,3 +532,7 @@ img {
   display: flex;
   align-content: center;
 }
+#poster{
+  display: flex;
+  /* width: 100%; */
+}
