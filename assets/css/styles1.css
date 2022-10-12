@@ -528,3 +528,7 @@ img {
     width: 450px;
   }
 }
+#posterbox{
+  display: flex;
+  align-content: center;
+}
